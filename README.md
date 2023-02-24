@@ -58,3 +58,7 @@ https://github.com/garjita63/install-airflow-on-windows-without-docker/blob/main
 - airflow scheduler
 
 Visit localhost:8080 in the browser and use the admin account details shown on the terminal to login.
+
+### Note:
+- To stop airflow scheduler & webserver:  Ctrl-C terminals
+- Make sure shutdown WSL from command prompt: wsl --shutdown
