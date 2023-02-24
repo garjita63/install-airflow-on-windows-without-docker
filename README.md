@@ -1,5 +1,9 @@
 ## Install Apache Airflow on Windows without Docker
 
+Airflow is a platform created by the community to programmatically author, schedule and monitor workflows.
+
+It can be installed within docker ot without docker.
+
 ### Requirements:
 - Windows Subsystem for Linux (WSL2)
 - Windows 10 or higher
