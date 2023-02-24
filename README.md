@@ -27,8 +27,9 @@ https://github.com/garjita63/install-airflow-on-windows-without-docker/blob/main
 - Check pyhton version
   pyhton3
   
-  Python 3.10.6 (main, Nov 14 2022, 16:10:14) [GCC 11.3.0] on linux
+  For example: Python 3.10.6 (main, Nov 14 2022, 16:10:14) [GCC 11.3.0] on linux
 - Check Airflow latest version in website https://airflow.apache.org/docs/apache-airflow/stable/start.html
+
   For example : Airflow ver.2.5.1
 - Set Airflow home directory 
   For example : export AIRFLOW_HOME=d:\airflow\local
