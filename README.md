@@ -48,7 +48,7 @@ It can be installed within docker ot without docker.
     --firstname Peter \
     --lastname Parker \
     --role Admin \
-    --email spiderman@superhero.org
+    --email abc@xyz.com
 
 - airflow webserver --port 8080
 
