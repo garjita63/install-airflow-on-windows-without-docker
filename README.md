@@ -11,6 +11,8 @@ It can be installed within docker ot without docker.
 
 ### Method 1
 #### Steps: (See document file : Install Apache Airflow on Windows without Docker.docx) 
+https://github.com/garjita63/install-airflow-on-windows-without-docker/blob/main/Install%20Apache%20Airflow%20on%20Windows%20without%20Docker.docx
+
 1. Install WSL2 (Windows Subsystem for Linux 2) on Windows 10
 2. Set Up the Virtual Environment
 3. Set Up the Airflow Directory
