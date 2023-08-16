@@ -48,14 +48,18 @@ https://github.com/garjita63/install-airflow-on-windows-without-docker/blob/main
 
 - airflow users create \
     --username admin \
-    --firstname Peter \
-    --lastname Parker \
+    --firstname Ketut \
+    --lastname Garjita \
     --role Admin \
-    --email abc@xyz.com
+    --email myname@gmail.com
 
+- Check users list
+  airflow users list
+  
 - airflow webserver --port 8080
 
-- airflow scheduler
+- open other terminal
+  airflow scheduler
 
 Visit localhost:8080 in the browser and use the admin account details shown on the terminal to login.
 
